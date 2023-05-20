@@ -3,7 +3,7 @@
 </p>
 
 ## 🖥️ Projeto
-    Esse é um Projeto Web Responsivo de uma capsula do tempo que é usada para exibir memórias em uma timeline
+Esse é um Projeto Web Responsivo de uma capsula do tempo que é usada para exibir memórias em uma timeline
 
 ## 🚀 Tecnologias
 Esse projeto foi desenvolvido durante a NLW Spacetime da Rocketseat e usa as tecnologias:
